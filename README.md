@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 # LAB 6
 
-![gambar0](Pertemuan 10 LAB 6 - SS/0.png)
+![gambar0](Gambar/0.png)
 
 
 Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
@@ -14,7 +14,7 @@ Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke 
 
 * Setelah itu buat lah file python nya dengan nama (lab6.py) tapi itu terserah kalian mau menggunakan nama apa
 
-![Gambar3]
+![Gambar3](Gambar/3.PNG)
 
 Lalu mari kita mengcoding file tersebut dengan syntax seperti di bawah ini
 
@@ -74,7 +74,7 @@ def hapus():
 
 ```
 
-![Gambar1]
+![Gambar1](Gambar/1.PNG)
 
 Jika sudah memasukan semua syntax diatas jangan di run terlebih dahulu nanti file tersebut akan rusak/tidak dapat dijalankan nanti hasilnya akan error.
 
@@ -107,7 +107,7 @@ while True:
 
 ```
 
-![Gambar4]
+![Gambar4](Gambar/4.PNG)
 
 Nah disini di awal terdapat syntax ini:
 ```
@@ -115,7 +115,7 @@ from data import lab6
 ```
 Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama (data) untuk membuka file (lab6.py). Itu penjelasan singkatnya, kalau sudah langsung run aja, tapi sebelum di run jangan lupa di save.jika sudah nnti hasilnya akan jadi seperti di bawah ini.
 
-![Gambar5]
+![Gambar5](Gambar/5.PNG)
 
 Terima kasih, Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besarnya.
 
